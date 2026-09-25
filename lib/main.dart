@@ -13,7 +13,8 @@ void main() async {
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
-// test comment 
+// test comment
+  // feature: additional notes field - in progress
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
